@@ -25,8 +25,28 @@ body {
     font-kerning: normal;
 }
 
+.post-meta {
+    font-style: italic;
+}
 
+.more {
+    font-style: italic;
+    text-align: right;
+}
 
+ul.post-list {
+    li {
+    h2 {
+    font-size: $large-font-size;
+    }
+    }
+}
+
+header.post-header {
+    h1 {
+    font-size: $large-font-size;
+    }
+}
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
