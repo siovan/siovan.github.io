@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-Contact me:
+There are several good ways to get in touch with me:
 
 + On github: 
 + On twitter
